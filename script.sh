@@ -1,0 +1,2 @@
+export GITHUB_USERNAME="motagiswagat"
+export GITHUB_REPOSITORY="se2001-21f1006284"
